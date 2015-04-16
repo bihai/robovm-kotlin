@@ -1,0 +1,5 @@
+.*
+target/
+build/
+robovm-logs/
+robovm-build/
